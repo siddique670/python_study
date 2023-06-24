@@ -1,3 +1,7 @@
+## About Details
+
+This is Amir made this repository for document of what i have learned on python.
+
 # python_study
 
 Python learning file, code and documents.
