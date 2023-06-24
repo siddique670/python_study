@@ -1,0 +1,17 @@
+Total Words - 32
+Unique Words - 14
+
+- - 11
+1 - 6
+words - 2
+8 - 2
+4 - 2
+total - 1
+21 - 1
+unique - 1
+2 - 1
+amir - 1
+mohammad-ziya - 1
+hello - 1
+siddique - 1
+mohammad - 1

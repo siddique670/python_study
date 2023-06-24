@@ -1,0 +1,9 @@
+1. Tkinter - Desktpop Applications = Simple and easy to learn
+2. Pygame -  Games
+3. PyQT5 - Desktop Apllication - Complex to learn
+4. Kiwi - Android/IOS Apps
+5. Ursina - Games
+
+== This above tools is used for gui in pyhton
+
+Django - Web development

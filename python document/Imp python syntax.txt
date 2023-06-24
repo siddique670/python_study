@@ -1,0 +1,49 @@
+# pip list -v/ pip list == by this command give you all of list library pip which has installed.
+# pip freeze  == by this command give you all of list library pip which has installed.
+# pip -V      == give the pip version.
+# python -V   == give the python version.
+-----------------------------------------------------------------------------------
+Python path:- C:\Users\2071499\AppData\Local\Programs\Python\Python310
+Python Library path:- C:\Users\2071499\AppData\Local\Programs\Python\Python310\Scripts
+Physically store library :- C:\Users\2071499\AppData\Local\Programs\Python\Python310\Lib\site-packages
+------------------------------------------------------------------------------------
+Pycharm path:- C:\Users\2071499\PycharmProjects
+===================================================================================
+For install robot framework overview
+
+* Robot Framework is cross-plateform
+* Installation is small, light, and fast
+* Requires some simple command line basics
+* Installation steps
+   * Install python & pip (add to your PATH)
+   * Use pip to install Robot Framework 
+   * Use pip to install seleniumlibrary (plus any other libraries you want)
+   * Select & install desired browsers
+   * Install selenium webdrivers for each installed browser
+   * Install the pycharm IDE & Intellibot plugin
+   * Create a base directory to hold all projects
+__________________________________________________________________________________
+For Robot file runs tips (How to run);-
+   * Open command line
+   * First, CD into your project folder
+   * robot -d <forlder name wehere want to save logs> <folder name from whare robot file save/have>/test.robot(robot file name)
+   * eq:- robot -d Result Test/test.robot
+   * -d some/local/or/network/path = by this we can specify results log location
+==================================================================================
+# pip install robotfreamework == by this command can installed robot framework
+# pip install --upgrade robotframework == Upgrade to the latest stable version
+# pip install --upgrade --pre robotframework == Upgrade to the latest version even if it is a pre-release
+# pip install robotframework==5.0 == Install a specific version
+# pip install robotframework-5.0-py3-none-any.whl == Install separately downloaded package (no network connection needed)
+# pip uninstall robotframework == Uninstall
+# pip install robotframework-seleniumlibrary == will install the base selenium library
+# robot --version == for check version
+
+_______________________________________________________________________________
+Type the following command to find Linux kernel version:
+uname -r
+_______________________________________________________________________________
+# echo %path:;=&echo.% == by this syntax we can check the enviroment variable path by cmd separated by line
+
+
+

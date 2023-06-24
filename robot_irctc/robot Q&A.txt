@@ -1,0 +1,27 @@
+Organizing Your Project Files
+* /ProjectBase
+    /Tests      <- all test scripts
+    /Resources  <- app keyword files and page objects
+    /Libraries  <- custom libraries written with Python (Advanced Level)
+    /Results    <- result logs from each run
+
+*> In robot framework only has 4 section for script.
+    1) Settings    = Where we can declare library and resources .
+    2) Variables   = Where we can declare global varibales that will be used for tests.
+    3) Test Cases  = Where hold various types test cases 
+    4) Keywords    = Where we can hold key-words.
+
+
+
+
+
+
+{
+  "email": {
+    "value": "2124064@cognizant.com",
+    "required": true
+  }
+}
+
+
+on monday need discussed with raj for extension issue
